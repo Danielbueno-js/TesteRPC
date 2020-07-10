@@ -1,0 +1,1 @@
+INSERT INTO dias(data) values (?)

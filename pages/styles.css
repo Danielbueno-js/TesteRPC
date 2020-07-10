@@ -1,0 +1,24 @@
+.program-description{
+    position: relative;
+    background: #000000;
+    overflow: hidden;
+}
+
+.program-description .container{
+    position: relative;
+    color: white;
+    z-index: 2;
+}
+
+.program-description img{
+    position: absolute;
+    left: 0;
+    top: -50%;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
+}
+
+.program-info{
+    padding-left: 10px;
+}

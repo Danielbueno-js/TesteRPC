@@ -1,0 +1,5 @@
+
+CREATE TABLE dias(
+    id INTEGER PRIMARY KEY,
+    data STRING
+);

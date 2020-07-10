@@ -1,0 +1,1 @@
+SELECT data FROM 'dias' WHERE data = ?
